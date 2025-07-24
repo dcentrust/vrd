@@ -1,4 +1,4 @@
-# Web3 Technical Assessment
+# VDP Version 1
 
 ## Prerequisities
 
